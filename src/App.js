@@ -21,13 +21,13 @@ function App() {
       <div className="Head">
         <header className="App-header" data-aos="fade" data-aos-duration="10000">
           <h1>Three and a Half Asian Men Podcast</h1>
-          <img className="Banner-a" src="/images/alex.png"
+          <img className="Banner-a" src="./images/alex.png"
                data-aos="fade-up-right" data-aos-duration="3000"/>
-          <img className="Banner-b" src="/images/chan.png"
+          <img className="Banner-b" src="./images/chan.png"
                data-aos="fade-right" data-aos-duration="3000"/>
-          <img className="Banner-c" src="/images/tarek.png"
+          <img className="Banner-c" src="./images/tarek.png"
                data-aos="fade-left" data-aos-duration="3000"/>
-          <img className="Banner-d" src="/images/tim.png"
+          <img className="Banner-d" src="./images/tim.png"
                data-aos="fade-up-left" data-aos-duration="3000"/>
 
         </header>
@@ -39,7 +39,7 @@ function App() {
         </header>
         <div className="About-img">
           <div className="Alex">
-            <img className="Alex-img" src="/images/alex.png"
+            <img className="Alex-img" src="./images/alex.png"
                  data-aos="fade-down-left" data-aos-duration="1500"/>
             <figcaption className="Alex-name" data-aos="fade" data-aos-duration="2000">Alex</figcaption>
             <figcaption data-aos="slide-up" data-aos-duration="1500">Alex is a rising
@@ -50,7 +50,7 @@ function App() {
               playlists of all genres.</figcaption>
           </div>
           <div className="Chan">
-            <img className="Chan-img" src="/images/chan.png"
+            <img className="Chan-img" src="./images/chan.png"
                  data-aos="fade-down" data-aos-duration="1500"/>
             <figcaption className="Chan-name" data-aos="fade" data-aos-duration="2000">Chan</figcaption>
             <figcaption data-aos="slide-up" data-aos-duration="1500">Chan is a rising
@@ -61,7 +61,7 @@ function App() {
               in Tetris, eating, or slumbering.</figcaption>
           </div>
           <div className="Tarek">
-            <img className="Tarek-img" src="/images/tarek.png"
+            <img className="Tarek-img" src="./images/tarek.png"
                  data-aos="fade-down" data-aos-duration="1500"/>
             <figcaption className="Tarek-name" data-aos="fade" data-aos-duration="2000">Tarek</figcaption>
             <figcaption data-aos="slide-up" data-aos-duration="1500">Tarek is a rising
@@ -72,7 +72,7 @@ function App() {
               Anthony or New York Knicks highlights.</figcaption>
           </div>
           <div className="Tim">
-            <img className="Tim-img" src="/images/tim.png"
+            <img className="Tim-img" src="./images/tim.png"
                  data-aos="fade-down-right" data-aos-duration="1500"/>
             <figcaption className="Tim-name" data-aos="fade" data-aos-duration="2000">Tim</figcaption>
             <figcaption data-aos="slide-up" data-aos-duration="1500">Tim is a rising
