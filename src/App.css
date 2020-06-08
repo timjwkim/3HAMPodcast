@@ -229,7 +229,7 @@
   margin-top: 5%;
   max-width: 35%;
   font-family: 'Bungee';
-  align-content: right;
+  float: right;
 }
 
 .YT-featured {
