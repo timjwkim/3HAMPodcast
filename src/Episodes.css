@@ -1,0 +1,53 @@
+.Episodes {
+  background-color: white;
+  min-height: 100vh;
+  color: black;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.Latest-ep {
+  margin-top: 5%;
+  margin-left: 2.5%;
+  max-width: 55%;
+  margin-right: 5%;
+  font-family: 'Bungee';
+}
+
+.YT-res-1 {
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%;
+  position: relative;
+}
+
+.YT-res-1 iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.Latest-ep-desc {
+  font-family: 'Bellota text';
+  margin-top: 2%;
+}
+
+.Other-ep {
+  margin-top: 5%;
+  max-width: 35%;
+  font-family: 'Bungee';
+}
+
+.YT-featured {
+  height: 80%;
+  width: 80%;
+}
+
+.All-eps {
+  margin-top: 25%;
+}
+
+.YT-all {
+  height: 80%;
+  width: 80%;
+}
