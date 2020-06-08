@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c8bc6bb837f717321b77c91650eca86e",
+    "revision": "2b8227afc7ec53ef7b8ebc9580a3a0f7",
     "url": "/3HAMPodcast/index.html"
   },
   {
-    "revision": "9be95e6da0d5727afdb3",
+    "revision": "7538c2fb25fa559524ac",
     "url": "/3HAMPodcast/static/css/2.eb43dee1.chunk.css"
   },
   {
-    "revision": "383f0730be14ac7dca60",
-    "url": "/3HAMPodcast/static/css/main.24c6ad29.chunk.css"
+    "revision": "c0ecdcc104cbe819a961",
+    "url": "/3HAMPodcast/static/css/main.80436446.chunk.css"
   },
   {
-    "revision": "9be95e6da0d5727afdb3",
-    "url": "/3HAMPodcast/static/js/2.06ccca5d.chunk.js"
+    "revision": "7538c2fb25fa559524ac",
+    "url": "/3HAMPodcast/static/js/2.b581257d.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/3HAMPodcast/static/js/2.06ccca5d.chunk.js.LICENSE.txt"
+    "url": "/3HAMPodcast/static/js/2.b581257d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "383f0730be14ac7dca60",
-    "url": "/3HAMPodcast/static/js/main.129ca36a.chunk.js"
+    "revision": "c0ecdcc104cbe819a961",
+    "url": "/3HAMPodcast/static/js/main.d8aa5eea.chunk.js"
   },
   {
     "revision": "8f1d96bbce116dfa8823",
