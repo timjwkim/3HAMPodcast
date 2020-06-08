@@ -1,15 +1,16 @@
 .About {
   background-color: white;
-  min-height: 125vh;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
   color: black;
 }
 
 .About-us {
   font-family: 'Bungee';
+  font-size: 20px;
+  line-height: 50%;
 }
 
 .Alex {
@@ -104,4 +105,10 @@
   content: "";
   clear: both;
   display: table;
+}
+
+.Toggle-info {
+  font-family: 'Bungee';
+  border: none;
+  background-color: white;
 }

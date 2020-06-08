@@ -11,7 +11,7 @@ function AllowAOS() {
 class Episodes extends Component {
   render() {
     return (
-      <div className="Episodes">
+      <div className="Episodes" id="EPS">
         <div className="Latest-ep" data-aos="slide-right" data-aos-duration="1500">
           <header className="Latest-ep-title">
             <h2>Latest Episode!</h2>

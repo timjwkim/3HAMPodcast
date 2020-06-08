@@ -9,6 +9,7 @@ import tarek from './images/tarek.png';
 import tim from './images/tim.png';
 import Episodes from './Episodes.js';
 import About from './About.js';
+import { Link } from 'react-scroll';
 
 function App() {
   useEffect(() => {
@@ -28,6 +29,9 @@ function App() {
                data-aos="fade-left" data-aos-duration="3000"/>
           <img className="Banner-d" src={tim}
                data-aos="fade-up-left" data-aos-duration="3000"/>
+        </header>
+        <header className="Eps-nav" data-aos="fade-up" data-aos-duration="3000">
+        <Link className="To-Eps" to="EPS" smooth="true" duration="1500">Click here for Episodes!</Link>
         </header>
       </div>
       <About/>
