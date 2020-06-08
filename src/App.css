@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,213 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.Head {
+  background-color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.App-header {
+  text-align: center;
+  font-size: calc(10px + 2vmin);
+  font-family: 'Bungee';
+  position: absolute;
+  top: 25%;
+}
+
+.Banner-a {
+  height: 15%;
+  width: 15%;
+  margin-right: 1px;
+}
+
+.Banner-b {
+  height: 15%;
+  width: 15%;
+  margin-right: 1px;
+  margin-left: 1px;
+}
+
+.Banner-c {
+  height: 15%;
+  width: 15%;
+  margin-right: 1px;
+  margin-left: 1px;
+}
+
+.Banner-d {
+  height: 15%;
+  width: 15%;
+  margin-left: 1px;
+}
+
+.App-header-nav {
+
+}
+/* -----------------------------------ABOUT---------------------------------- */
+.About {
+  background-color: white;
+  min-height: 125vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: black;
+}
+
+.About-us {
+  font-family: 'Bungee';
+}
+
+.Alex {
+  float: left;
+  width: 15%;
+  margin-left: 5%;
+  margin-right: 5%;
+  text-align: center;
+  font-family: 'Bellota text';
+}
+
+.Alex-name {
+  font-family: 'Bungee';
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Alex-img {
+  height: 80%;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Chan {
+  float: left;
+  width: 15%;
+  margin-left: 5%;
+  margin-right: 5%;
+  text-align: center;
+  font-family: 'Bellota text';
+}
+
+.Chan-name {
+  font-family: 'Bungee';
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Chan-img {
+  height: 80%;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Tarek {
+  float: left;
+  width: 15%;
+  margin-left: 5%;
+  margin-right: 5%;
+  text-align: center;
+  font-family: 'Bellota text';
+}
+
+.Tarek-name {
+  font-family: 'Bungee';
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Tarek-img {
+  height: 80%;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Tim {
+  float: left;
+  width: 15%;
+  margin-left: 5%;
+  margin-right: 5%;
+  text-align: center;
+  font-family: 'Bellota text';
+}
+
+.Tim-name {
+  font-family: 'Bungee';
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Tim-img {
+  height: 80%;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.About-img::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+/* ----------------------------------EPISODES-------------------------------- */
+.Episodes {
+  background-color: white;
+  min-height: 100vh;
+  color: black;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.Latest-ep {
+  margin-top: 5%;
+  margin-left: 2.5%;
+  max-width: 55%;
+  margin-right: 5%;
+  font-family: 'Bungee';
+}
+
+.YT-res-1 {
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%;
+  position: relative;
+}
+
+.YT-res-1 iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.Latest-ep-desc {
+  font-family: 'Bellota text';
+  margin-top: 2%;
+}
+
+.Other-ep {
+  margin-top: 5%;
+  max-width: 35%;
+  font-family: 'Bungee';
+  align-content: right;
+}
+
+.YT-featured {
+  height: 80%;
+  width: 80%;
+}
+
+.All-eps {
+  margin-top: 25%;
+}
+
+.YT-all {
+  height: 80%;
+  width: 80%;
 }
