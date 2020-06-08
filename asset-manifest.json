@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/3HAMPodcast/static/css/main.e5405da3.chunk.css",
+    "main.js": "/3HAMPodcast/static/js/main.bb879e99.chunk.js",
+    "main.js.map": "/3HAMPodcast/static/js/main.bb879e99.chunk.js.map",
+    "runtime-main.js": "/3HAMPodcast/static/js/runtime-main.4ee5cc57.js",
+    "runtime-main.js.map": "/3HAMPodcast/static/js/runtime-main.4ee5cc57.js.map",
+    "static/css/2.eb43dee1.chunk.css": "/3HAMPodcast/static/css/2.eb43dee1.chunk.css",
+    "static/js/2.9895016a.chunk.js": "/3HAMPodcast/static/js/2.9895016a.chunk.js",
+    "static/js/2.9895016a.chunk.js.map": "/3HAMPodcast/static/js/2.9895016a.chunk.js.map",
+    "index.html": "/3HAMPodcast/index.html",
+    "precache-manifest.48f65c3016111a57f4a2f962cb605e9c.js": "/3HAMPodcast/precache-manifest.48f65c3016111a57f4a2f962cb605e9c.js",
+    "service-worker.js": "/3HAMPodcast/service-worker.js",
+    "static/css/2.eb43dee1.chunk.css.map": "/3HAMPodcast/static/css/2.eb43dee1.chunk.css.map",
+    "static/css/main.e5405da3.chunk.css.map": "/3HAMPodcast/static/css/main.e5405da3.chunk.css.map",
+    "static/js/2.9895016a.chunk.js.LICENSE.txt": "/3HAMPodcast/static/js/2.9895016a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ee5cc57.js",
+    "static/css/2.eb43dee1.chunk.css",
+    "static/js/2.9895016a.chunk.js",
+    "static/css/main.e5405da3.chunk.css",
+    "static/js/main.bb879e99.chunk.js"
+  ]
+}
