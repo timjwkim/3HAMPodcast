@@ -46,7 +46,7 @@ function App() {
                  data-aos="fade-down-left" data-aos-duration="1500"/>
             <figcaption className="Alex-name" data-aos="fade" data-aos-duration="2000">Alex</figcaption>
             <figcaption data-aos="slide-up" data-aos-duration="1500">Alex is a rising
-              junior studying communications at Villanova University. As the mc
+              junior studying communications at Villanova University. As the MC
               and host of the podcast, Alex leads the discussion and is an important
               and necessary ground for a group that likes to go on tangents. When
               not podcasting, Alex enjoys making music and creating banger Spotify
