@@ -1,0 +1,72 @@
+.About {
+  background-color: white;
+  min-height: 100vh;
+  color: black;
+}
+
+.About-us {
+  font-family: 'Bungee';
+  font-size: 65%;
+}
+
+.Alex {
+  float: left;
+  width: 40%;
+}
+
+.Alex-name {
+  font-family: 'Bungee';
+}
+
+.Alex-img {
+  margin-top: 15%;
+  width: 60%;
+  height: 60%;
+}
+
+.Chan-name {
+  font-family: 'Bungee';
+}
+
+.Chan-img {
+  margin-top: 15%;
+  width: 60%;
+  height: 60%;
+}
+
+.Tarek {
+  float: left;
+  width: 40%;
+}
+
+.Tarek-name {
+  font-family: 'Bungee';
+}
+
+.Tarek-img {
+  margin-top: 15%;
+  width: 60%;
+  height: 60%;
+}
+
+.Tim-name {
+  font-family: 'Bungee';
+}
+
+.Tim-img {
+  margin-top: 15%;
+  width: 60%;
+  height: 60%;
+}
+
+.Toggle-info {
+  font-family: 'Bungee';
+  border: none;
+  background-color: white;
+}
+
+.About-img::after {
+  content: "";
+  display: table;
+  clear: both;
+}
