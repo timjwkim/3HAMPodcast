@@ -1,71 +1,84 @@
-.About {
+.M-About {
   background-color: white;
   min-height: 100vh;
   color: black;
+  text-align: center;
 }
 
-.About-us {
+.M-About-us {
   font-family: 'Bungee';
   font-size: 65%;
 }
 
-.Alex {
+.M-Alex {
   float: left;
-  width: 40%;
+  width: 50%;
+  text-align: center;
 }
 
-.Alex-name {
+.M-Alex-name {
   font-family: 'Bungee';
 }
 
-.Alex-img {
+.M-Alex-img {
   margin-top: 15%;
   width: 75%;
   height: 75%;
 }
 
-.Chan-name {
+.M-Alex-desc {
+  font-family: 'Bellota text';
+}
+
+.M-Chan-name {
   font-family: 'Bungee';
 }
 
-.Chan-img {
+.M-Chan-img {
   margin-top: 15%;
   width: 75%;
   height: 75%;
 }
 
-.Tarek {
+.M-Chan-desc {
+  font-family: 'Bellota text';
+}
+
+.M-Tarek {
   float: left;
-  width: 40%;
+  width: 50%;
+  text-align: center;
 }
 
-.Tarek-name {
+.M-Tarek-name {
   font-family: 'Bungee';
 }
 
-.Tarek-img {
+.M-Tarek-img {
   margin-top: 15%;
   width: 75%;
   height: 75%;
 }
 
-.Tim-name {
+.M-Tarek-desc {
+  font-family: 'Bellota text';
+}
+
+.M-Tim-name {
   font-family: 'Bungee';
 }
 
-.Tim-img {
+.M-Tim-img {
   margin-top: 15%;
   width: 75%;
   height: 75%;
 }
 
-.Toggle-info {
-  font-family: 'Bungee';
-  border: none;
-  background-color: white;
+.M-Tim-desc {
+  font-family: 'Bellota text';
 }
 
-.About-img::after {
+.M-About-img::after {
   content: "";
   display: table;
   clear: both;

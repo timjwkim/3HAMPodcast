@@ -15,26 +15,26 @@ function AllowAOS() {
 class AboutMobile extends Component {
   render() {
     return (
-      <div className="About">
-        <header className="About-us" data-aos="fade" data-aos-duration="2000">
+      <div className="M-About">
+        <header className="M-About-us" data-aos="fade" data-aos-duration="2000">
           <h2>Meet the Cast!</h2>
         </header>
-        <div className="About-img">
-          <div className="Alex">
-            <img className="Alex-img" src={alex} data-aos="slide-right" data-aos-duration="750"/>
-            <figcaption className="Alex-name" data-aos="fade" data-aos-duration="1000">Alex</figcaption>
-            <figcaption className="Alex-desc" data-aos="fade" data-aos-duration="1000">MC</figcaption>
-            <img className="Chan-img" src={chan} data-aos="slide-right" data-aos-duration="750"/>
-            <figcaption className="Chan-name" data-aos="fade" data-aos-duration="1000">Chan</figcaption>
-            <figcaption className="Chan-desc" data-aos="fade" data-aos-duration="1000">X-Factor</figcaption>
+        <div className="M-About-img">
+          <div className="M-Alex">
+            <img className="M-Alex-img" src={alex} data-aos="slide-right" data-aos-duration="750"/>
+            <figcaption className="M-Alex-name" data-aos="fade" data-aos-duration="1000">Alex</figcaption>
+            <figcaption className="M-Alex-desc" data-aos="fade" data-aos-duration="1000">MC</figcaption>
+            <img className="M-Chan-img" src={chan} data-aos="slide-right" data-aos-duration="750"/>
+            <figcaption className="M-Chan-name" data-aos="fade" data-aos-duration="1000">Chan</figcaption>
+            <figcaption className="M-Chan-desc" data-aos="fade" data-aos-duration="1000">X-Factor</figcaption>
           </div>
-          <div className="Tarek">
-            <img className="Tarek-img" src={tarek} data-aos="slide-left" data-aos-duration="750"/>
-            <figcaption className="Tarek-name" data-aos="fade" data-aos-duration="1000">Tarek</figcaption>
-            <figcaption className="Tarek-desc" data-aos="fade" data-aos-duration="1000">Storyteller</figcaption>
-            <img className="Tim-img" src={tim} data-aos="slide-left" data-aos-duration="750"/>
-            <figcaption className="Tim-name" data-aos="fade" data-aos-duration="1000">Tim</figcaption>
-            <figcaption className="Alex-desc" data-aos="fade" data-aos-duration="1000">Techie</figcaption>
+          <div className="M-Tarek">
+            <img className="M-Tarek-img" src={tarek} data-aos="slide-left" data-aos-duration="750"/>
+            <figcaption className="M-Tarek-name" data-aos="fade" data-aos-duration="1000">Tarek</figcaption>
+            <figcaption className="M-Tarek-desc" data-aos="fade" data-aos-duration="1000">Storyteller</figcaption>
+            <img className="M-Tim-img" src={tim} data-aos="slide-left" data-aos-duration="750"/>
+            <figcaption className="M-Tim-name" data-aos="fade" data-aos-duration="1000">Tim</figcaption>
+            <figcaption className="M-Alex-desc" data-aos="fade" data-aos-duration="1000">Techie</figcaption>
           </div>
         </div>
       </div>
