@@ -16,7 +16,7 @@ class EpisodesMobile extends Component {
           <header className="M-Latest-ep-title">
             <h2 className="M-Latest-ep-title-desc">Latest Episode!</h2>
             <div className="M-YT-res-1">
-              <iframe className="M-YT-latest" width="560" height="315" src="https://www.youtube.com/embed/K3Ven6AHMho" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe className="M-YT-latest" width="560" height="315" src="https://www.youtube.com/embed/UdzZ1mN-K-w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
             <figcaption className="M-Latest-ep-desc">Episode 7: "Goldfish and Subways and Excuses,
                 Oh My!"</figcaption>

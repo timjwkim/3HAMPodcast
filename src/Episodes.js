@@ -16,7 +16,7 @@ class Episodes extends Component {
           <header className="Latest-ep-title">
             <h2>Latest Episode!</h2>
             <div className="YT-res-1">
-              <iframe className="YT-latest" width="560" height="315" src="https://www.youtube.com/embed/K3Ven6AHMho" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe className="YT-latest" width="560" height="315" src="https://www.youtube.com/embed/UdzZ1mN-K-w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
             <figcaption className="Latest-ep-desc">The Three and a Half Asian Men
                 Podcast is back for our 7th episode: "Goldfish and Subways and Excuses,
@@ -29,7 +29,7 @@ class Episodes extends Component {
         <div className="Other-ep" data-aos="slide-left" data-aos-duration="1500">
           <header className="Featured-ep">
             <h2>Featured Episode!</h2>
-            <iframe className="YT-featured" width="560" height="315" src="https://www.youtube.com/embed/BSUs6LnncO4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe className="YT-featured" width="560" height="315" src="https://www.youtube.com/embed/K3Ven6AHMho" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </header>
           <header className="All-eps">
             <h2>All Episodes!</h2>
