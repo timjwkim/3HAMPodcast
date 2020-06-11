@@ -18,12 +18,7 @@ class Episodes extends Component {
             <div className="YT-res-1">
               <iframe className="YT-latest" width="560" height="315" src="https://www.youtube.com/embed/UdzZ1mN-K-w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
-            <figcaption className="Latest-ep-desc">The Three and a Half Asian Men
-                Podcast is back for our 7th episode: "Goldfish and Subways and Excuses,
-                Oh My!" (Wizard of Oz is a classic, no cap). For this episode, we
-                talk about our pet peeves, which happen to range from very legitimate
-                things, to just plain stupidity. We have a number of stories on this
-                podcast, so if you want to learn how to annoy Chan, please tune in.</figcaption>
+            <figcaption className="Latest-ep-desc">The The Three and a Half Asian Men Podcast is back for our 8th episode: "r/askthreeandahalfasianmenpodcast". For this episode, we dive into the world of AskReddit and find questions that speak to us and we answer them. Our conversation takes us through bathroom stories, dish out our best college advice and CHAN RAPS?!?!?!?!?!</figcaption>
           </header>
         </div>
         <div className="Other-ep" data-aos="slide-left" data-aos-duration="1500">
