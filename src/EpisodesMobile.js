@@ -18,8 +18,7 @@ class EpisodesMobile extends Component {
             <div className="M-YT-res-1">
               <iframe className="M-YT-latest" width="560" height="315" src="https://www.youtube.com/embed/UdzZ1mN-K-w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
-            <figcaption className="M-Latest-ep-desc">Episode 7: "Goldfish and Subways and Excuses,
-                Oh My!"</figcaption>
+            <figcaption className="M-Latest-ep-desc">Episode 8: "r/askthreeandahalfasianmenpodcast"</figcaption>
           </header>
         </div>
         <div className="M-Other-ep" data-aos="fade-up" data-aos-duration="750">
