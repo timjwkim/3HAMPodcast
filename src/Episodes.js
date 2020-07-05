@@ -16,9 +16,9 @@ class Episodes extends Component {
           <header className="Latest-ep-title">
             <h2>Latest Episode!</h2>
             <div className="YT-res-1">
-              <iframe className="YT-latest" width="560" height="315" src="https://www.youtube.com/embed/ub2Mi9mngf4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe className="YT-latest" width="560" height="315" src="https://www.youtube.com/embed/_BoJMalBPiU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
-            <figcaption className="Latest-ep-desc">The Three and a Half Asian Men Podcast is back for our 9th episode: "Welcome to ~B~ollege". As a highly requested topic, we finally get to a subject area that our (very few) fans have been waiting for: college. We break down our selection process, the transition from living at home to living on campus and Chan tells yet another weird story about yours truly.</figcaption>
+            <figcaption className="Latest-ep-desc">The Three and a Half Asian Men Podcast is back for our 11th episode: "Most Likely to Have a Podcast". For this episode, we dive into superlatives: we frame superlatives on one another, and we also bring to the table our own superlatives that we created for each other.</figcaption>
           </header>
         </div>
         <div className="Other-ep" data-aos="slide-left" data-aos-duration="1500">
